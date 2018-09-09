@@ -1,2 +1,2 @@
 # C
-Codes writed when learning C.
+Code writed when learning C.
